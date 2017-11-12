@@ -5,6 +5,7 @@ Created on Sep 21, 2017
 
 
 '''
+print('hello there')
 import tkinter
 
 DEFAULT_FONT = ('Arial Black', 12)
